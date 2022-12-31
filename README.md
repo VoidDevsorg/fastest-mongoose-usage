@@ -1,3 +1,6 @@
+## Fastest Mongoose Usage
+- Pulling data via Mongoose is slow to process, I wrote a sample code that shows you how to pull them faster. The results are in the table below. You can see the code in the `exapmle` folder.
+
 ## Run the Script
 ```bash
 # Enter the example file
